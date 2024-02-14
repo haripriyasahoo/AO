@@ -6,7 +6,7 @@ description: Peer-reviewed journal articles.
 nav_order: 4
 nav: true
 ---
-<!-- _pages/publications.md -->
+<!-- _pages/publications.md --> 
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
