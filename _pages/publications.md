@@ -9,8 +9,6 @@ nav: true
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f {{ site.scholar.bibliography }} %}
 </div>
-
-
 
