@@ -10,7 +10,6 @@ nav: true
 <div class="publications">
 
 {% bibliography %}
-
 </div>
 
 
